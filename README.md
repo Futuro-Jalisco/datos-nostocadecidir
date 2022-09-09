@@ -19,6 +19,26 @@ Los datos e información que contiene esta publicación, se componen de las **re
 - Sistema Estatal para el Desarrollo Integral de la Familia
 - Comisión Estatal de Derechos Humanos de Jalisco
 
+###  ¿Qué datos encontrarás aquí?
+A continuación se enlistan los conjuntos de datos que encontrarás compilados en este repositorio, que fueron procesados, depurados y analizados para el presente diagnóstico:
+
+ **Secretaría de Salud Jalisco (SSJ):**
+ - `SSJ_CentrosSalud-AtencionViolenciaSexYAborto-2016-2021` 
+Abortos voluntarios atendidos en Jalisco de *2016 a 2021, reportados por Servicios de Salud del Estado de Jalisco. Casos de Interrupción Legal (ILE) y Voluntaria de Embarazo en Jalisco (IVE).
+*Registro continuo a partir de 2016, con algunos casos sin fecha estipulada o con posibilidad de error de captura (ej: 2011, 1993).
+	- Datos abiertos
+	- [Visualizaciones](https://public.tableau.com/views/SSJ_AbortosVoluntariosAtendidospor_02/SSJ_AbortosVoluntariosAtendidospor_02?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
+ - `SSJ_CentrosSalud-AtencionViolenciaSexYAborto-2010-2021` 
+Casos atendidos por violencia sexual de 2010 a 2021 por Servicios de Salud del Estado de Jalisco, de acuerdo a la Secretaría de Salud Jalisco (SSJ) y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres (SISEMH)
+	- Datos abiertos
+	- [Visualizaciones](https://public.tableau.com/views/SSJ_CentrosSalud-AtencionViolenciaSexYAborto2010-2021_02/CentrosSalud-AtencinViolenciaSexYAborto2010-2021_02-seleccion?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
+ - `SSJ_DefuncionesXAbortoJal2010-2020` 
+Defunciones por aborto en Jalisco de 2010 a 2020 reportadas por Servicios de Salud del Estado de Jalisco.
+	- Datos abiertos
+	- [Visualizaciones](https://public.tableau.com/views/Salud_DefuncionesXAbortoJal2010-2020_01/Salud_DefuncionesXAbortoJal2010-2020_01?:language=en-US&:display_count=n&:origin=viz_share_link) 
+
 ### Sobre el informe Nos Toca Decidir: Diagnóstico Jalisco 
 Este texto compila información que por meses se ha estado analizando, organizando y se obtuvo a través del ejercicio del derecho al acceso a la información pública, dando como resultado un acercamiento y aproximación a la realidad del aborto y la interrupción legal del embarazo en Jalisco, así como la situación sobre la garantía y efectividad de los derechos sexuales y reproductivos de las niñas, adolescentes, mujeres y personas gestantes en la entidad. La información que siempre ha sido pública –o debería de serlo– se analizó y se contrastó para visibilizar la importancia de otorgar autonomía plena a las niñas, adolescentes, mujeres y personas gestantes Jalisco, con la intención de visibilizar la inminente premura de que el derecho a decidir sea ley en este estado porque en Jalisco,
 ¡nos toca decidir!
