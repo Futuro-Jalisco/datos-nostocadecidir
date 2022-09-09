@@ -38,11 +38,28 @@ Defunciones por aborto en Jalisco de 2010 a 2020 reportadas por Servicios de Sal
 	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/SSJ_DefuncionesXAbortoJal2010-2020_01.csv)
 	- [Visualizaciones](https://public.tableau.com/views/Salud_DefuncionesXAbortoJal2010-2020_01/Salud_DefuncionesXAbortoJal2010-2020_01?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
-### Sobre el informe Nos Toca Decidir: Diagnóstico Jalisco 
-Este texto compila información que por meses se ha estado analizando, organizando y se obtuvo a través del ejercicio del derecho al acceso a la información pública, dando como resultado un acercamiento y aproximación a la realidad del aborto y la interrupción legal del embarazo en Jalisco, así como la situación sobre la garantía y efectividad de los derechos sexuales y reproductivos de las niñas, adolescentes, mujeres y personas gestantes en la entidad. La información que siempre ha sido pública –o debería de serlo– se analizó y se contrastó para visibilizar la importancia de otorgar autonomía plena a las niñas, adolescentes, mujeres y personas gestantes Jalisco, con la intención de visibilizar la inminente premura de que el derecho a decidir sea ley en este estado porque en Jalisco,
-¡nos toca decidir!
+ - `INEGI-SSJ-IIEG_Embarazo-inf-adolescente_2019-2021`:
+Nacimientos registrados en madres menores a 20 años en Jalisco en 2019 y 2021 (reportados por INEGI) y en 2021 (reportados por SSJ).
+	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/INEGI-SSJ-IIEG_Embarazo-inf-adolescente_2019-2021.csv)
+	- [Visualizaciones](https://public.tableau.com/views/IIEG_Embarazo-inf-adolescente-menores20_2019-2021_01/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
-[**Consulta el informe completo aquí.**](https://susanadelarosa.mx/encuentronacionalderechoadecidir-copy)
+
+ **Comisión Estatal de Derechos Humanos de Jalisco (CEDHJ):**
+ - `CEDHJ_P2_quejas-violengenmuj_2005-2021`: 
+Quejas interpuestas contra autoridades de Jalisco de 2005 a 2021 sobre casos de violencia sexual contra mujeres, niñas y adolescentes.
+	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/CEDHJ_P2_quejas-violengenmuj_2005-2021_02.csv)
+	- [Visualizaciones](https://public.tableau.com/shared/DJGN4NQB6?:display_count=n&:origin=viz_share_link) 
+
+ **Secretaría de Educación Jalisco (SEJ):**
+ - `SEJ_P3_BeneficiadosProgramaEducaciónSexual_2019-2021`: 
+Cobertura y Alcance del Programa de Educación Sexual en Jalisco de 2019 a 2021 entre estudiantes de educación básica pública en Jalisco.
+	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/CEDHJ_P2_quejas-violengenmuj_2005-2021_02.csv)
+	- [Visualizaciones](https://public.tableau.com/shared/DJGN4NQB6?:display_count=n&:origin=viz_share_link)
+
+### Sobre el informe Nos Toca Decidir: Diagnóstico Jalisco 
+Este texto compila información que por meses se ha estado analizando, organizando y se obtuvo a través del ejercicio del derecho al acceso a la información pública, dando como resultado un acercamiento y aproximación a la realidad del aborto y la interrupción legal del embarazo en Jalisco, así como la situación sobre la garantía y efectividad de los derechos sexuales y reproductivos de las niñas, adolescentes, mujeres y personas gestantes en la entidad. La información que siempre ha sido pública –o debería de serlo– se analizó y se contrastó para visibilizar la importancia de otorgar autonomía plena a las niñas, adolescentes, mujeres y personas gestantes Jalisco, con la intención de visibilizar la inminente premura de que el derecho a decidir sea ley en este estado porque en Jalisco, ¡nos toca decidir!
+
+[**¡CONSULTA EL INFORME COMPLETO AQUÍ!**](https://susanadelarosa.mx/encuentronacionalderechoadecidir-copy)
   
 
 ### Equipo
