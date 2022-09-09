@@ -23,15 +23,15 @@ Los datos e información que contiene esta publicación, se componen de las **re
 A continuación se enlistan los conjuntos de datos que encontrarás compilados en este repositorio, que fueron procesados, depurados y analizados para el presente diagnóstico:
 
  **Secretaría de Salud Jalisco (SSJ):**
- - `SSJ_AbortosVoluntariosAtendidospor_2016-2021` 
+ - `SSJ_AbortosVoluntariosAtendidospor_2016-2021`: 
 Abortos voluntarios atendidos en Jalisco de 2016* a 2021, reportados por Servicios de Salud del Estado de Jalisco. Casos de Interrupción Legal (ILE) y Voluntaria de Embarazo en Jalisco (IVE).
 *Registro continuo reportado a partir de 2016, con algunos casos sin fecha estipulada o con posibilidad de error de captura (ej: 2011, 1993).
 	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/SSJ_AbortosVoluntariosAtendidospor_2016-2021_06.csv)
 	- [Visualizaciones](https://public.tableau.com/views/SSJ_AbortosVoluntariosAtendidospor_02/SSJ_AbortosVoluntariosAtendidospor_02?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
- - `SSJ_CentrosSalud-AtencionViolenciaSexYAborto-2010-2021`: Casos atendidos por violencia sexual de 2010 a 2021 por Servicios de Salud del Estado de Jalisco, de acuerdo a la Secretaría de Salud Jalisco (SSJ) y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres (SISEMH)
-  - [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/SSJ_CentrosSalud-AtencionViolenciaSexYAborto-2010-2021_10.xlsx)
-  - [Visualizaciones](https://public.tableau.com/views/SSJ_CentrosSalud-AtencionViolenciaSexYAborto2010-2021_02/CentrosSalud-AtencinViolenciaSexYAborto2010-2021_02-seleccion?:language=en-US&:display_count=n&:origin=viz_share_link) 
+ - `SSJ_CentrosSalud-AtencionViolenciaSexYAborto-2010-2021`: Casos atendidos por violencia sexual de 2010 a 2021 por Servicios de Salud del Estado de Jalisco, de acuerdo a la Secretaría de Salud Jalisco (SSJ) y la Secretaría de Igualdad Sustantiva entre Mujeres y Hombres (SISEMH).
+	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/SSJ_CentrosSalud-AtencionViolenciaSexYAborto-2010-2021_10.xlsx)
+	- [Visualizaciones](https://public.tableau.com/views/SSJ_CentrosSalud-AtencionViolenciaSexYAborto2010-2021_02/CentrosSalud-AtencinViolenciaSexYAborto2010-2021_02-seleccion?:language=en-US&:display_count=n&:origin=viz_share_link)
 
  - `SSJ_DefuncionesXAbortoJal2010-2020`:
 Defunciones por aborto en Jalisco de 2010 a 2020 reportadas por Servicios de Salud del Estado de Jalisco.
