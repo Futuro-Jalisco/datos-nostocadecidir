@@ -22,6 +22,7 @@ Los datos e información que contiene esta publicación, se componen de las **re
 ### Sobre el informe Nos Toca Decidir: Diagnóstico Jalisco 
 Este texto compila información que por meses se ha estado analizando, organizando y se obtuvo a través del ejercicio del derecho al acceso a la información pública, dando como resultado un acercamiento y aproximación a la realidad del aborto y la interrupción legal del embarazo en Jalisco, así como la situación sobre la garantía y efectividad de los derechos sexuales y reproductivos de las niñas, adolescentes, mujeres y personas gestantes en la entidad. La información que siempre ha sido pública –o debería de serlo– se analizó y se contrastó para visibilizar la importancia de otorgar autonomía plena a las niñas, adolescentes, mujeres y personas gestantes Jalisco, con la intención de visibilizar la inminente premura de que el derecho a decidir sea ley en este estado porque en Jalisco,
 ¡nos toca decidir!
+
 [**Consulta el informe completo aquí.**](https://susanadelarosa.mx/encuentronacionalderechoadecidir-copy)
   
 
