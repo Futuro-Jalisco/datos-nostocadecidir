@@ -1,0 +1,597 @@
+"Clave","Municipio","Con Expediente","Año consulta","Residencia de la usuaria","Estado de residencia","Localidad","Edad","Estado Civil","Semanas de Gestación","Diagnóstico Clínico","Causal por la que se llevó a cabo el Aborto","Tipo de Manejo Clínico","Aplicación de la herramienta de detección de violencia","Observaciones","Semanas de gestación al momento de solicitar el servicio","Fecha de Consulta
+dd/mm/aaaa","Expediente"
+1,"Tala","Sin expediente (Urgencias)",2021,"Etzatlán","Jalisco",,19,"Unión libre",12,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","2. Negativo","Aborto diferido",12,"4/19/2021","URGENCIAS"
+2,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,23,"Casada",22,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,22,"4/20/2021","URGENCIAS"
+3,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,17,"Unión libre",21,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,21,"4/21/2021","URGENCIAS"
+4,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,25,"Casada",13,"Óbito","4. Riesgo a la salud","2. Misoprostol","2. Negativo","Aborto diferido",13,"4/23/2021","URGENCIAS"
+5,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,19,"Unión libre",12,"Óbito","4. Riesgo a la salud","2. Misoprostol","2. Negativo","Aborto diferido",12,"4/23/2021","URGENCIAS"
+6,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,24,"Unión libre",12,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"4/26/2021","URGENCIAS"
+7,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,25,"Unión libre",11,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"4/28/2021","URGENCIAS"
+8,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,22,"Unión libre",12,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"4/28/2021","URGENCIAS"
+9,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,18,"Unión libre",11,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"4/29/2021","URGENCIAS"
+10,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,31,"Casada",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"4/30/2021","URGENCIAS"
+11,"Tala","Sin expediente (Urgencias)",2021,"Tlajomulco de Zúñiga","Jalisco",,27,"Casada",5,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,5,"5/2/2021","URGENCIAS"
+12,"Tala","Sin expediente (Urgencias)",2021,"Etzatlán","Jalisco",,28,"Casada",8,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"5/3/2021","URGENCIAS"
+13,"Tala","Sin expediente (Urgencias)",2021,"Tequila","Jalisco",,20,"Unión libre",11,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"5/3/2021","URGENCIAS"
+14,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,34,"Casada",22,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,22,"5/3/2021","URGENCIAS"
+15,"Tala","Sin expediente (Urgencias)",2021,"Tlajomulco de Zúñiga","Jalisco",,14,"Soltera",21,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,21,"5/3/2021","URGENCIAS"
+16,"Tala","Sin expediente (Urgencias)",2021,"Tlajomulco de Zúñiga","Jalisco",,21,"Unión libre",7,"Aborto Completo","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"5/6/2021","URGENCIAS"
+17,"Tala","Sin expediente (Urgencias)",2021,"Teuchitlán","Jalisco",,21,"Unión libre",20,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,20,"5/6/2021","URGENCIAS"
+18,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,24,"Unión libre",20,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,20,"5/10/2021","URGENCIAS"
+19,"Tala","Sin expediente (Urgencias)",2021,"Ahualulco de Mercado","Jalisco",,24,"Casada",13,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,13,"5/11/2021","URGENCIAS"
+20,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,38,"Casada",14,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,14,"5/13/2021","URGENCIAS"
+21,"Tala","Sin expediente (Urgencias)",2021,"Tala","Jalisco",,34,"Casada",15,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,15,"5/14/2021","URGENCIAS"
+22,"Tala","Sin expediente (Urgencias)",2021,"Ahualulco de Mercado","Jalisco",,37,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"5/17/2021","URGENCIAS"
+23,"Cocula","Con expediente",2021,"Juchitlán","Jalisco",,37,"Casada",8.1,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo","Aborto diferido",8.1,"4/1/2021","03-85-55"
+24,"Cocula","Con expediente",2021,"Cocula","Jalisco","Parajes",29,"Unión libre",10,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"4/8/2021","05-22-50"
+25,"Cocula","Con expediente",2021,"Acatlán de Juárez","Jalisco",,28,"Unión libre",9,"Aborto Incompleto, Embarazo Molar","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"4/8/2021","06-49-08"
+26,"Cocula","Con expediente",2021,"Cocula","Jalisco",,23,"Casada",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"4/11/2021","06-40-60"
+27,"Cocula","Con expediente",2021,"Acatlán de Juárez","Jalisco",,26,"Casada",12,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"4/12/2021","08-27-76"
+28,"Cocula","Con expediente",2021,"Tecolotlán","Jalisco",,16,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,"9 SDG","4/28/2021","08-57-09"
+29,"Cocula","Con expediente",2021,"Cocula","Jalisco",,24,"Unión libre",9.4,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,"9.4 SDG","5/4/2021","08-23-97"
+30,"Cocula","Con expediente",2021,"Poncitlán","Jalisco","Agua Caliente",21,"Casada",9,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,"9 SDG","5/6/2021","08-52-09"
+31,"Cocula","Con expediente",2021,"Cocula","Jalisco","Cofradía de la Luz",21,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,"9 SDG","5/8/2021","08-57-61"
+32,"Cocula","Con expediente",2021,"Chiquilistlán","Jalisco",,21,"Unión libre",8.4,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,"8.4 SDG","5/8/2021","07-08-35"
+33,"Cocula","Con expediente",2021,"Tecolotlán","Jalisco",,24,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"5/26/2021","06-93-64"
+34,"Cocula","Con expediente",2021,"Acatlán de Juárez","Jalisco","Bellavista",19,"Unión libre",18,"Aborto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,18,"5/31/2021","07-68-68"
+35,"Cocula","Con expediente",2021,"Cocula","Jalisco",,32,"Casada",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"6/1/2021","05-91-83"
+36,"Cocula","Con expediente",2021,"Villa Corona","Jalisco",,25,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"6/8/2021","06-71-97"
+37,"Cocula","Con expediente",2021,"Tecolotlán","Jalisco",,36,"Unión libre",12,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/12/2021","02-39-37"
+38,"Cocula","Con expediente",2021,"Tecolotlán","Jalisco",,22,"Unión libre",6,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"6/13/2021","08-37-10"
+39,"Cocula","Con expediente",2021,"Zapotitlán de Vadillo","Jalisco",,28,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"6/21/2021","08-59-62"
+40,"Cocula","Con expediente",2021,"Tecolotlán","Jalisco",,19,"Unión libre",6.5,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,"6.5 SDG","6/22/2021","07-82-39"
+41,"Cocula","Con expediente",2021,"Tecolotán","Jalisco","Ayotitlán",21,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"6/24/2021","08-59-83"
+42,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,25,"Unión libre",15,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"4/23/2021","11-32-38-0"
+43,"Zapotlán El Grande","Con expediente",2021,"Gómez Farías","Jalisco",,28,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"4/22/2021","07-82-64-0"
+44,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,28,"Unión libre",15,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"4/22/2021","11-21-68-0"
+45,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,37,"Casada",9,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"4/23/2021","02-64-62-0"
+46,"Zapotlán El Grande","Con expediente",2021,"Pihuamo","Jalisco",,19,"Unión libre",16,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,16,"4/27/2021","00-91-44-0"
+47,"Zapotlán El Grande","Con expediente",2021,"Tapalpa","Jalisco",,30,"Unión libre",18,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,18,"4/23/2021","14-44-16-0"
+48,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,14,"Soltera",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"4/26/2021","14-44-60-0"
+49,"Zapotlán El Grande","Con expediente",2021,"Techaluta de Montenegro","Jalisco",,23,"Unión libre",12,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"4/26/2021","14-44-56-0"
+50,"Zapotlán El Grande","Con expediente",2021,"Sayula","Jalisco",,23,"Unión libre",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"4/25/2021","14-44-46-0"
+51,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,19,"Soltera",10,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","1. Positivo",,10,"4/26/2021","14-44-58-0"
+52,"Zapotlán El Grande","Con expediente",2021,"Sayula","Jalisco",,25,"Soltera",13,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"4/15/2021","14-42-88-0"
+53,"Zapotlán El Grande","Con expediente",2021,"San Gabriel","Jalisco",,27,"Soltera",16,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,16,"4/16/2021","14-43-12-0"
+54,"Zapotlán El Grande","Con expediente",2021,"Mazamitla","Jalisco",,27,"Soltera",8,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"4/16/2021","14-43-13-0"
+55,"Zapotlán El Grande","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,28,"Unión libre",5,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,5,"4/9/2021","13-75-35-0"
+56,"Zapotlán El Grande","Con expediente",2021,"Quitupan","Jalisco",,21,"Unión libre",13,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"4/11/2021","14-42-08-0"
+57,"Zapotlán El Grande","Con expediente",2021,"San Gabriel","Jalisco",,37,"Casada",8,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"4/12/2021","14-42-20-0"
+58,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,29,"Casada",15,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"4/12/2021","05-52-91-0"
+59,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,20,"Soltera",6,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"4/6/2021","14-41-13-0"
+60,"Zapotlán El Grande","Con expediente",2021,"Zapotiltic","Jalisco",,33,"Unión libre",21,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,21,"4/6/2021","10-40-62-0"
+61,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,23,"Soltera",13,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"5/1/2021","14-45-41-0"
+62,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,35,"Unión libre",15,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"4/30/2021","02-07-58-0"
+63,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,24,"Soltera",3,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,3,"5/5/2021","14-46-14-0"
+64,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,20,"Unión libre",13,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"5/5/2021","00-54-64-0"
+65,"Zapotlán El Grande","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,18,"Unión libre",20,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,20,"5/4/2021","14-46-05-0"
+66,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,35,"Unión libre",21,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,21,"5/3/2021","14-43-43-0"
+67,"Zapotlán El Grande","Con expediente",2021,"Techaluta de Montenegro","Jalisco",,29,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/9/2021","14-46-80-0"
+68,"Zapotlán El Grande","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,18,"Soltera",21,"Aborto en Evolución","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,21,"5/1/2021","14-45-39-0"
+69,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,31,"Casada",15,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"5/11/2021","08-83-05-0"
+70,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,27,"Unión libre",14,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,14,"5/12/2021","14-45-46-0"
+71,"Zapotlán El Grande","Con expediente",2021,"Tapalpa","Jalisco",,16,"Soltera",11,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11,"5/24/2021","14-49-92-0"
+72,"Zapotlán El Grande","Con expediente",2021,"Teocuitatlán de Corona","Jalisco",,23,"Casada",12,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"5/27/2021","14-50-44-0"
+73,"Zapotlán El Grande","Con expediente",2021,"Sayula","Jalisco",,27,"Unión libre",6,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"5/28/2021","14-50-71-0"
+74,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,24,"Soltera",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/29/2021","14-50-81-0"
+75,"Zapotlán El Grande","Con expediente",2021,"Zacoalco De Torres","Jalisco",,40,"Casada",6,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"5/30/2021","00-38-82-0"
+76,"Zapotlán El Grande","Con expediente",2021,"Gómez Farías","Jalisco",,15,"Unión libre",3,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,3,"5/30/2021","14-50-85-0"
+77,"Zapotlán El Grande","Con expediente",2021,"Zapotiltic","Jalisco",,20,"No referido",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"5/15/2021","12-65-37-0"
+78,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,20,"Soltera",10,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"5/15/2021","11-60-29-0"
+79,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,27,"Casada",14,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,14,"5/17/2021","14-45-46-0"
+80,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,36,"Unión libre",18,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,18,"5/17/2021","01-30-58-0"
+81,"Zapotlán El Grande","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,17,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/18/2021","14-48-58-0"
+82,"Zapotlán El Grande","Con expediente",2021,"Mazamitla","Jalisco",,36,"Casada",21,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,21,"5/14/2021","00-31-12-0"
+83,"Sayula","Con expediente",2021,"Tapalpa","Jalisco",,37,"No referido",6,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"5/8/2021",4323
+84,"Sayula","Con expediente",2021,"Tapalpa","Jalisco",,19,"No referido",17,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,17,"5/23/2021",23855
+85,"Sayula","Con expediente",2021,"Tapalpa","Jalisco",,16,"No referido",0,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,0,"5/24/2021",28132
+86,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,24,"Casada",10,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"6/1/2021","14-51-31-0"
+87,"Zapotlán El Grande","Con expediente",2021,"La Manzanilla De La Paz","Jalisco",,17,"Casada",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/2/2021","14-51-36-0"
+88,"Zapotlán El Grande","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,28,"Soltera",12,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"6/3/2021","14-51-73-0"
+89,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,23,"Soltera",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/15/2021","12-41-68-0"
+90,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,25,"Soltera",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/5/2021","10-92-27-0"
+91,"Zapotlán El Grande","Con expediente",2021,"Zacoalco De Torres","Jalisco",,19,"Unión libre",10,"Aborto en Evolución","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,10,"6/7/2021","14-52-19-0"
+92,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,19,"Unión libre",11,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11,"6/7/2021","14-52-17-0"
+93,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,25,"Unión libre",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/8/2021","14-52-38-0"
+94,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,22,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/8/2021","12-34-75-0"
+95,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,35,"Casada",4,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,4,"6/11/2021","14-53-15-0"
+96,"Zapotlán El Grande","Con expediente",2021,"Sayula","Jalisco",,22,"No referido",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/12/2021","14-53-16-0"
+97,"Zapotlán El Grande","Con expediente",2021,"Gómez Farías","Jalisco",,18,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/12/2021","13-47-30-0"
+98,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,29,"Unión libre",10,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"6/12/2021","07-07-21-0"
+99,"Zapotlán El Grande","Con expediente",2021,"Amacueca","Jalisco",,16,"No referido",18,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,18,"6/12/2021","14-53-21-0"
+100,"Zapotlán El Grande","Con expediente",2021,"Tuxpan","Jalisco",,29,"Casada",5,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,5,"6/13/2021","08-48-96-0"
+101,"Zapotlán El Grande","Con expediente",2021,"Tecalitlán","Jalisco",,30,"Casada",10,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"6/17/2021","03-72-71-0"
+102,"Zapotlán El Grande","Con expediente",2021,"Zapotiltic","Jalisco",,22,"Divorciada",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/17/2021","11-11-83-0"
+103,"Zapotlán El Grande","Con expediente",2021,"Zapotiltic","Jalisco",,24,"Soltera",5,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,5,"6/21/2021","14-54-64-0"
+104,"Zapotlán El Grande","Con expediente",2021,"Sayula","Jalisco",,32,"Divorciada",9,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/16/2021","06-17-15-0"
+105,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,17,"Unión libre",3,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,3,"6/22/2021","14-54-73-0"
+106,"Zapotlán El Grande","Con expediente",2021,"Sayula","Jalisco",,28,"Casada",7,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/23/2021","14-54-96-0"
+107,"Zapotlán El Grande","Con expediente",2021,"Mazamitla","Jalisco",,35,"Casada",8,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"6/26/2021","14-55-24-0"
+108,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,27,"Unión libre",8,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"6/26/2021","12-87-15-0"
+109,"Zapotlán El Grande","Con expediente",2021,"Zapotiltic","Jalisco",,26,"Casada",5,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,5,"6/26/2021","09-98-21-0"
+110,"Zapotlán El Grande","Con expediente",2021,"Zapotlán el Grande","Jalisco",,22,"Soltera",18,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,18,"6/29/2021","13-94-06-0"
+111,"Zapotlán El Grande","Con expediente",2021,"San Gabriel","Jalisco",,25,"No referido",6,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"6/21/2021","13-24-50-0"
+112,"Guadalajara","Sin expediente",2021,"Guadalajara","Jalisco",,24,"Soltera",6,"Embarazo Producto de Agresión Sexual","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo",,6,"5/25/2021","S/E"
+113,"Guadalajara","Sin expediente",2021,"Tlaquepaque","Jalisco",,29,"Soltera",9,"Embarazo Producto de Agresión Sexual","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo",,9,"12/062021","S/E"
+114,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,21,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/18/2021",91125
+115,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,23,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/26/2021",70535
+116,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,41,"Divorciada",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"4/28/2021",15657
+117,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,29,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"4/29/2021",15676
+118,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,35,"Casada",16,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,16,"4/30/2021",15669
+119,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,27,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/30/2021",15673
+120,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,18,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"4/29/2021",15663
+121,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,29,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/28/2021",15636
+122,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,22,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/28/2021",15642
+123,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,29,"Unión libre",18,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,18,"4/27/2021",15534
+124,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,22,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"4/29/2021",15659
+125,"Guadalajara","Con expediente",2020,"Tonalá","Jalisco",,42,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/27/2020",15633
+126,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,32,"Unión libre",13,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,13,"4/26/2021",15620
+127,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,33,"Unión libre",5,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"4/26/2021",15619
+128,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,18,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/26/2021",15608
+129,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,37,"Casada",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"4/25/2021",15597
+130,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,15,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/24/2021",15590
+131,"Guadalajara","Con expediente",2021,"Ixtlahuacán de los Membrillos","Jalisco",,16,"Soltera",17,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,17,"4/24/2021",15572
+132,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,18,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/23/2021",15567
+133,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,27,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"4/23/2021",15558
+134,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,23,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/23/2021",15559
+135,"Guadalajara","Con expediente","Registro no determinado","Tlaquepaque","Jalisco",,27,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/22/1991",15546
+136,"Guadalajara","Con expediente",2021,"Poncitlán","Jalisco",,32,"Casada",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"4/21/2021",15581
+137,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,25,"Unión libre",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"4/20/2021",15550
+138,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,16,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"4/21/2021",15533
+139,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,17,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"4/21/2021",15582
+140,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,16,"Unión libre",18,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,18,"4/19/2021",15506
+141,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,26,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"4/19/2021",15496
+142,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,25,"Unión libre",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"4/18/2021",15481
+143,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,22,"Soltera",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"4/18/2021",15480
+144,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,27,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"4/16/2021",15464
+145,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,37,"Unión libre","Incierto","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,,"4/16/2021",15465
+146,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,35,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"4/15/2021",15445
+147,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,34,"Unión libre",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"4/15/2021",15432
+148,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/15/2021",15438
+149,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Soltera",5,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"4/14/2021",15430
+150,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,29,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/14/2021",15395
+151,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,15,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"4/13/2021",15367
+152,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Soltera",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"4/13/2021",15339
+153,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,27,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/12/2021",15351
+154,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,20,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/11/2021",15332
+155,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,20,"Soltera","Incierto","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,,"4/10/2021",15325
+156,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,24,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/10/2021",15317
+157,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"4/9/2021",15427
+158,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,26,"Casada",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"4/8/2021",15426
+159,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,23,"Unión libre",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"4/9/2021",15410
+160,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,22,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"4/8/2021",13799
+161,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,43,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/7/2021",15403
+162,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,34,"Casada",5,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"4/6/2021",15290
+163,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,36,"Casada",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/5/2021",15290
+164,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,35,"Casada",16,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,16,"4/5/2021",15260
+165,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,40,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"8/8/2021",14915
+166,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,22,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"4/4/2021",15255
+167,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,19,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"4/2/2021",15215
+168,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,18,"Casada",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"4/1/2021",15209
+169,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"4/30/2021",15686
+170,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,15,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"4/30/2021",15682
+171,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,30,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"5/1/2021",15704
+172,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,16,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"5/3/2021",15730
+173,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"5/3/2021",15728
+174,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,39,"Casada",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/4/2021",15744
+175,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,19,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/6/2021",15797
+176,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco","San Juan Evangelista",18,"Unión libre",17,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,17,"5/4/2021",15741
+177,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,20,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"5/3/2021",15742
+178,"Guadalajara","Con expediente",2021,"El Salto","Jalisco","La Huizachera",35,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/4/2021",15757
+179,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,21,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/6/2021",15775
+180,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,21,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/6/2021",15781
+181,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,17,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/6/2021",15777
+182,"Guadalajara","Con expediente",2021,"Zapotlanejo","Jalisco",,46,"Casada",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"5/9/2021",15841
+183,"Guadalajara","Con expediente","Registro no determinado","Tlajomulco de Zúñiga","Jalisco",,19,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/10/1995",15865
+184,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,20,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/11/2021",15886
+185,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Soltera",5,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"5/11/2021",15861
+186,"Guadalajara","Con expediente",2021,"Tepatitlán de Morelos","Jalisco",,34,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/11/2021",15887
+187,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,26,"Unión libre",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"5/12/2021",15900
+188,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,34,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"5/12/2021",15898
+189,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,16,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/12/2021",15917
+190,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"5/13/2021",15919
+191,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,17,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"5/13/2021",15939
+192,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,17,"Unión libre",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"5/13/2021",15922
+193,"Guadalajara","Con expediente",2021,"Ixtlahuacán","Jalisco",,15,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/13/2021",15941
+194,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,20,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/14/2021",15974
+195,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,17,"Soltera",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"5/14/2021",15949
+196,"Guadalajara","Con expediente",2021,"Jocotepec","Jalisco",,26,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"5/15/2021",15959
+197,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,28,"Soltera",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"5/16/2021",15990
+198,"Guadalajara","Con expediente",2021,"Tapalpa","Jalisco","San Martín De Las Flores",31,"Casada",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"5/18/2021",15998
+199,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,25,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/16/2021",15983
+200,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,29,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/17/2021",16013
+201,"Guadalajara","Con expediente",2021,"Ixtlahuacán de los Membrillos","Jalisco",,15,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"5/18/2021",16016
+202,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,24,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"5/18/2021",16025
+203,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,31,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"5/20/2021",16052
+204,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,28,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"5/21/2021",16070
+205,"Guadalajara","Con expediente",2021,"Ixtlahuacán de los Membrillos","Jalisco",,19,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/21/2021",16082
+206,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,33,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"2405/2021",16105
+207,"Guadalajara","Con expediente","Registro no determinado","Tlaquepaque","Jalisco",,35,"Casada",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"5/23/2025",16104
+208,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,20,"Casada",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"5/24/2021",16117
+209,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,14,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/26/2021",16151
+210,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,18,"Soltera",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"5/26/2021",16160
+211,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,17,"Soltera",16,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,16,"5/27/2021",16170
+212,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,26,"Casada",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"5/27/2021",16176
+213,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,28,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"5/28/2021",16188
+214,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,15,"Unión libre",13,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,13,"5/28/2021",16185
+215,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,26,"Unión libre",18,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,18,"5/28/2021",16225
+216,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,26,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/29/2021",6229
+217,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,26,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/28/2021",16224
+218,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"5/30/2021",16204
+219,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,27,"Unión libre",13,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,13,"5/28/2021",16218
+220,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,30,"Soltera","Incierto","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,,"5/30/2021",16203
+221,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"5/31/2021",16268
+222,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,36,"Soltera",4,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,4,"5/31/2021",16251
+223,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,22,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/1/2021",16295
+224,"Guadalajara","Con expediente",2021,"Jocotepec","Jalisco",,20,"Soltera",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/1/2021",16282
+225,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,18,"Soltera",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/2/2021",16304
+226,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,32,"Soltera","Incierto","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"?","6/2/2021",16301
+227,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,44,"Soltera",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"6/4/2021",16329
+228,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,23,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/3/2021",16211
+229,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,32,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/3/2021",16322
+230,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,42,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/3/2021",16316
+231,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,33,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/3/2021",16327
+232,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"6/4/2021",16357
+233,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,43,"Unión libre",21,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,21,"6/3/2021",16315
+234,"Guadalajara","Con expediente",2021,"Ixtlahuacán de los Membrillos","Jalisco",,17,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"6/6/2021",16378
+235,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,17,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"6/7/2021",16387
+236,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,28,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/6/2021",16381
+237,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,19,"Unión libre",18,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,18,"6/9/2021",16442
+238,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,22,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/10/2021",16448
+239,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/12/2021",16482
+240,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,23,"Unión libre",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"6/12/2021",16480
+241,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,22,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/12/2021",16472
+242,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,20,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/12/2021",164765
+243,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,22,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"4/12/2021",16483
+244,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,21,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"6/13/2021",16498
+245,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/15/2021",16487
+246,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,35,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/12/2021",16511
+247,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,34,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/14/2021",16526
+248,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,35,"Casada",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"6/14/2021",16540
+249,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,33,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/16/2021",16547
+250,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,27,"Unión libre",13,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,13,"6/16/2021",16555
+251,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Soltera",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"6/16/2021",16575
+252,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,22,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"6/16/2021",16567
+253,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,30,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"6/17/2021",16576
+254,"Guadalajara","Con expediente",2011,"Tlajomulco de Zúñiga","Jalisco",,32,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/19/2011",16611
+255,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,18,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/18/2021",16593
+256,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,29,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/19/2021",16613
+257,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,28,"Soltera",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/20/2021",16619
+258,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,35,"Casada",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"0/06/021",16616
+259,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,29,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"6/20/2021",16627
+260,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,25,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/21/2021",16642
+261,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,30,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/21/2021",16633
+262,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,16,"Soltera",13,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,13,"6/23/2021",16657
+263,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,18,"Unión libre",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"6/21/2021",16656
+264,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,35,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/23/2021",16674
+265,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,24,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/23/2021",16676
+266,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,21,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/23/2021",16675
+267,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"23/06/2021",16676
+268,"Guadalajara","Con expediente",2021,"El Salto","Jalisco",,15,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"6/21/2021",16703
+269,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,15,"Soltera",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"6/25/2021",16698
+270,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,21,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/24/2021",16693
+271,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,24,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"6/26/2021",16715
+272,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,19,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/27/2021",16741
+273,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,17,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/27/2021",16722
+274,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,29,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"6/27/2021",16723
+275,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,25,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"6/28/2021",16758
+276,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,36,"Casada",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"6/28/2021",16793
+277,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,20,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"6/28/2021",16752
+278,"Guadalajara","Sin expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,19,"Soltera",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"6/29/2021","NA"
+279,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,27,"Casada",4,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,4,"01  07  21","811/78"
+280,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,25,"Unión libre",6,"Aborto Inevitable","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"04  07 21","811/95"
+281,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,23,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"06 07 2021","812/01"
+282,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,28,"Unión libre",5,"Embarazo Ectópico","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"07 07 2021","812/14"
+283,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,27,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"06 04 2021","600-09"
+284,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,28,"Casada",21,"Aborto Inevitable","4. Riesgo a la salud","3. AMEU","2. Negativo",,21,"28 04 2021","806-23"
+285,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"31 03 2021","802-31"
+286,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,26,"Casada",9,"Embarazo Anembriónico","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"02 04 2021","803-33"
+287,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,16,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"02 04 2021","803-35"
+288,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,16,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"02 04 2021","803-36"
+289,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"03 04 2021","803-37"
+290,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Soltera",17,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,17,"04 04 2021","803-38"
+291,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,28,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"03 04 2021","803-39"
+292,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,36,"Casada",13,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,13,"05 04 2021","803-41"
+293,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,17,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"05 04 2021","803-42"
+294,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"13 04 2021","804-46"
+295,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Soltera",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"15 04 2021","804-47"
+296,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Soltera","NA","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"NA","16 04 2021","804-48"
+297,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,,"Soltera",23,"Trofoblástica Gestacional","4. Riesgo a la salud","3. AMEU","2. Negativo",,23,"13 04 2021","804-49"
+298,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,27,"Casada",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"17 04 2021","804-50"
+299,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,17,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"06 04 2021","803-58"
+300,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,22,"Soltera",15,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,15,"06 04 2021","803-59"
+301,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,26,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"06 04 2021","803-60"
+302,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,6,"06 04 2021","803-61"
+303,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Unión libre","NA","Embarazo Ectópico Roto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"NA","07 04 2021","803-62"
+304,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,26,"Soltera","NA","Pb. Mola Parcial","4. Riesgo a la salud","3. AMEU","2. Negativo",,"NA","08 042021","803-63"
+305,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Casada",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,11,"09 04 2021","803-64"
+306,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,37,"Unión libre",5,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"04 04 2021","449-77"
+307,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,32,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"18 04 2021","804-77"
+308,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,30,"Soltera","NA","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"NA","19 04 2021","804-78"
+309,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",9,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"21 04 2021","804-79"
+310,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,23,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,10,"23 04 2021","804-81"
+311,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,30,"Unión libre",5,"Aborto Anembriónico","4. Riesgo a la salud","3. AMEU","2. Negativo",,5,"08 04 2021","803-95"
+312,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,22,"Unión libre","Incierto","Embarazo Anembriónico","4. Riesgo a la salud","3. AMEU","2. Negativo",,"incierto","04 04 2021","803-96"
+313,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Unión libre","Incierto","Embarazo Ectópico","4. Riesgo a la salud","3. AMEU","2. Negativo",,"incierto","11 04 2021","803-97"
+314,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,22,"Soltera","Incierto","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"incierto","27 04 2021","804-97"
+315,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,23,"Casada",9,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"12 04 2021","803-98"
+316,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,42,"Unión libre","Incierto","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"incierto","13 04 2021","803-99"
+317,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,21,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,12,"10 05 2021","807-00"
+318,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Unión libre","NA","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"NA","04 05 2021","805-01"
+319,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,37,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"05 05 2021","805-02"
+320,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,15,"Soltera","NA","Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,"NA","07 05 2021","805-03"
+321,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,34,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"05 05 2021","805-04"
+322,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"08 05 2021","805-05"
+323,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,38,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,8,"10 05 2021","805-06"
+324,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,25,"Soltera",14,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,14,"27 05 2021","808-10"
+325,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,26,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","2. Negativo",,7,"27 05 2021","808-11"
+326,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,20,"Unión libre",9,"Embarazo Anembriónico","4. Riesgo a la salud","3. AMEU","2. Negativo",,9,"27 05 2021","808-12"
+327,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,31,"Unión libre",10,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"17 05 2021","807-16"
+328,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Unión libre",5,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,5,"08 05 2021","807-17"
+329,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,16,"Unión libre",25,"Óbito","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,25,"21 05 2021","808-17"
+330,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,29,"Unión libre",15,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,15,"20 05 2021","807-18"
+331,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,31,"Soltera","Incierto","Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,,"21 05 2021","807-19"
+332,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,28,"Casada",6,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"21 05 2021","807-20"
+333,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,31,"Casada",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"21 05 2021","514-30"
+334,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,22,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"19 05 2021","611-30"
+335,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,21,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"01 05 2021","657-39"
+336,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Soltera",11,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"25 05 2021","808-39"
+337,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"28 05 2021","808-40"
+338,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,25,"Casada",11,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"29 05 2021","808-41"
+339,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,21,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"30 05 2021","808-43"
+340,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,33,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"24 05 2021","752-48"
+341,"Guadalajara","Con expediente",2021,"Zapopan","Jalisco",,26,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"11 05 2021","805-73"
+342,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,26,"Unión libre",12,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"12 05 2021","805-74"
+343,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,20,"Soltera",5,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,5,"13 05 221","805-75"
+344,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,35,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"14 05 2021","805-76"
+345,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,34,"Soltera",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"15 05 2021","805-77"
+346,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,18,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"16 05 2021","805-78"
+347,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,35,"Casada",7,"Aborto Séptico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"30 04 2021","804-98"
+348,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,28,"Unión libre",11,"Embarazo Molar","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"03 05 2021","804-99"
+349,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,32,"Soltera",11,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"02 06 2021","809-05"
+350,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,26,"Soltera",12,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"02 06 2021","809-06"
+351,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,21,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"02 06 2021","809-07"
+352,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,16,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"04 06 2021","809-09"
+353,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,17,"Unión libre",16,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"05 06 2021","809-10"
+354,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,28,"Unión libre",6,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"05 06 2021","809-11"
+355,"Guadalajara","Con expediente",2021,"Ixtlahuacán de los Membrillos","Jalisco",,34,"Soltera",17,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,17,"26 06 2021","811-17"
+356,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,13,"Soltera",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"26 06 2021","811-18"
+357,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,29,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"28 06 2021","811-19"
+358,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,26,"Unión libre",17,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,17,"29 06 2021","811-20"
+359,"Guadalajara","Con expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,31,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"29 06 2021","811-22"
+360,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,23,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"15 06 2021","810-25"
+361,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,20,"Unión libre",16,"Aborto Inevitable","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"15 06 2021","810-26"
+362,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,18,"Unión libre",12,"Aborto Inevitable","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"15 06 2021","810-27"
+363,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,24,"Soltera",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"16 06 2021","810-28"
+364,"Guadalajara","Con expediente",2021,"Tlaquepaque","Jalisco",,43,"Unión libre",11,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"15 06 2021","715-39"
+365,"Guadalajara","Con expediente",2021,"Ixtlahuacán del Río","Jalisco",,34,"Casada",14,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,14,"01 06 2021","808-44"
+366,"Guadalajara","Con expediente",2021,"Tonalá","Jalisco",,26,"Soltera",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"01 06 2021","808-45"
+367,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,19,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"17 06 2021","811-54"
+368,"Guadalajara","Con expediente",2021,"Guadalajara","Jalisco",,33,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,11,"17 06 2021","810-59"
+369,"Guadalajara","Con expediente",2021,"Autlán de Navarro","Jalisco",,23,"Casada",15,"Aborto Inevitable","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,15,"26 06 2021","810-63"
+370,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,24,"Unión libre",13,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"4/28/2021","09-54-86"
+371,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,27,"Unión libre",8,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"4/29/2021","09-80-90"
+372,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,35,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"4/29/2021","11-28-75"
+373,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,31,"Unión libre",14,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,14,"4/28/2021","12-05-15"
+374,"Autlán","Con expediente",2021,"Cuautitlán de García Barragán","Jalisco",,17,"Unión libre",6,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"4/26/2021","12/05/09"
+375,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco","Corcovado",14,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"4/26/2021","12-04-98"
+376,"Autlán","Con expediente",2021,"El Limón","Jalisco","San Buenaventura",23,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"4/23/2021","12-04-81"
+377,"Autlán","Con expediente",2021,"Ayutla","Jalisco",,27,"Unión libre",10,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"4/22/2021","11-71-50"
+378,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,28,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"4/21/2021","03-36-60"
+379,"Autlán","Con expediente",2021,"Tenamaxtlán","Jalisco",,39,"Casada",7,"Embarazo Ectópico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"4/20/2021","12-04-62"
+380,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,22,"Casada",13,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"4/19/2021","11-80-31"
+381,"Autlán","Con expediente",2021,"Casimiro Castillo","Jalisco","Lo Arado",28,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"4/16/2021","12-04-21"
+382,"Autlán","Con expediente",2021,"Ayutla","Jalisco",,38,"Casada",12,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"4/16/2021","09-55-28"
+383,"Autlán","Con expediente",2021,"Tenamaxtlán","Jalisco",,36,"Unión libre",6,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"4/15/2021","12-04-18"
+384,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,35,"Casada",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"4/12/2021","01-42-09"
+385,"Autlán","Con expediente",2021,"Tonaya","Jalisco",,20,"Unión libre",13,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"4/11/2021","12-03-95"
+386,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,27,"Unión libre",6,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"4/8/2021","09-43-41"
+387,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,17,"Soltera",15,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"4/3/2021","12-03-46"
+388,"Autlán","Con expediente",2021,"Tuxcacuesco","Jalisco","Apulco",39,"Unión libre",10,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"4/1/2021","12-03-38"
+389,"Autlán","Con expediente",2020,"Autlán de Navarro","Jalisco","El Chante",28,"Unión libre",12,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"5/31/2020","12-03-36"
+390,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,20,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"5/31/2021","12-06-99"
+391,"Autlán","Con expediente",2021,"Ayutla","Jalisco",,23,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"5/27/2021","09-40-45"
+392,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,36,"Casada",13,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"5/28/2021","10-77-70"
+393,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,19,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"5/25/2021","11-68-69"
+394,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,19,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/23/2021","12-06-36"
+395,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco","El Chante",19,"Soltera",10,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"5/21/2021","02-16-52"
+396,"Autlán","Con expediente",2021,"Cihuatlán","Jalisco","Barra De Navidad",17,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/16/2021","12-06-07"
+397,"Autlán","Con expediente",2021,"Villa Purificación","Jalisco","Las Guasimas",26,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"5/13/2021","11-90-10"
+398,"Autlán","Con expediente",2021,"Unión De Tula","Jalisco",,44,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"5/12/2021","01-77-81"
+399,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,34,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/11/2021","07-25-31"
+400,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,17,"Soltera",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"5/5/2021","12-05-45"
+401,"Autlán","Con expediente",2021,"Cihuatlán","Jalisco","El Aguacate",16,"Unión libre",12,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"6/29/2021","12-08-48"
+402,"Autlán","Con expediente",2021,"La Huerta","Jalisco","San Mateo",21,"Unión libre",10,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,10,"6/28/2021","12-08-39"
+403,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,26,"Unión libre",7.6,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7.6,"6/28/2021","08-36-56"
+404,"Autlán","Con expediente",2021,"El Grullo","Jalisco","San Isidro",17,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8,"6/27/2021","01-13-07"
+405,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco","La Lima",35,"Casada",13,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"6/25/2021","06-99-99"
+406,"Autlán","Con expediente",2021,"Zapotlán el Grande","Jalisco","La Joya",30,"Casada",11,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11,"23/06/20021","12-08-10"
+407,"Autlán","Con expediente",2021,"Unión De Tula","Jalisco","San Cayetano",30,"Casada",11.5,"Aboto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11.5,"6/20/2021","00-58-52"
+408,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,26,"Unión libre",13,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"6/22/2021","02-70-17"
+409,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,26,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/18/2021","12-07-76"
+410,"Autlán","Con expediente",2021,"Cuautla","Jalisco","Tierras Blancas",19,"Casada",6.2,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6.2,"6/18/2021","01-50-22"
+411,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,27,"Unión libre",13,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,13,"6/15/2021","02-22-44"
+412,"Autlán","Con expediente",2021,"Tenamaxtlán","Jalisco",,17,"Unión libre",12,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,12,"6/13/2021","12-07-68"
+413,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,21,"Unión libre",8.1,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8.1,"6/13/2021","12-07-66"
+414,"Autlán","Con expediente",2021,"Cuautla","Jalisco",,22,"Unión libre",8.6,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8.6,"6/13/2021","11-44-03"
+415,"Autlán","Con expediente",2021,"San Gabriel","Jalisco","La Croix",24,"Soltera",7.2,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7.2,"6/13/2021","12-07-63"
+416,"Autlán","Con expediente",2021,"Cihuatlán","Jalisco",,32,"Unión libre",7,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/9/2021","05-49-22"
+417,"Autlán","Con expediente",2021,"Tuxcacuesco","Jalisco",,30,"Unión libre",7,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"6/9/2021","02-48-26"
+418,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco","Paso De San Francisco",35,"Casada",6.6,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6.6,"6/6/2021","04-80-07"
+419,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,15,"Unión libre",11.6,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11.6,"6/4/2021","12-07-25"
+420,"Autlán","Con expediente",2021,"El Grullo","Jalisco",,22,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,6,"6/3/2021","01-67-04"
+421,"Autlán","Con expediente",2021,"Cihuatlán","Jalisco","Villa Obregón",43,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,9,"6/2/2021","12-07-12"
+422,"Cihuatlán","Sin expediente",2021,"Emiliano Zapata","Sin Registro","Emiliano Zapata",31,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,8,"4/9/2021","SIN EXP"
+423,"Cihuatlán","Con expediente",2021,"Cihuatlán","Jalisco",,26,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,9,"5/9/2021",12540
+424,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,39,"Casada",15,"Aborto Incompleto","4. Riesgo a la salud","1. Régimen combinado  (Mifepristona y Misoprostol)","3. No se aplicó",,15,"4/3/2021",9680
+425,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,29,"Casada",7,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"4/9/2021",9696
+426,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,15,"Unión libre",16,"Aborto Incompleto con Infección Genital","5. Riesgo de muerte","3. AMEU","3. No se aplicó",,16,"4/11/2021",9686
+427,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,32,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,7,"4/13/2021",3985
+428,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,34,"Casada",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"4/15/2021",9711
+429,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,15,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","1. Positivo",,11,"4/18/2021",9718
+430,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,18,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"4/23/2021",5703
+431,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,19,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,9,"4/28/2021",9749
+432,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco","Santa Fe",29,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,7,"5/12/2021",6241
+433,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,23,"Unión libre",15,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,15,"5/12/2021",5973
+434,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco","Matatlán",30,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,7,"5/12/2021",9789
+435,"Zapotlanejo","Con expediente",2021,"Juanacatlán","Jalisco",,17,"Soltera",23,"Óbito Fetal Con Higroma Quístico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,23,"5/13/2021",8688
+436,"Zapotlanejo","Con expediente",2021,"Tonalá","Jalisco","Santa Paula",22,"Unión libre",10,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"5/17/2021",9806
+437,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,19,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,8,"6/4/2021",9849
+438,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco",,17,"Unión libre",9,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"6/4/2021",9839
+439,"Zapotlanejo","Con expediente",2021,"El Salto","Jalisco",,22,"Soltera",16,"Aborto Diferido Higroma Quístico Fetal","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"6/5/2021",9850
+440,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco","La Barranca",25,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"6/18/2021",5269
+441,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco","La Laja",26,"Unión libre",6,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"6/19/2021",9888
+442,"Zapotlanejo","Con expediente",2021,"Zapotlán del Rey","Jalisco",,29,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","2. Negativo",,9,"6/20/2021",8419
+443,"Zapotlanejo","Con expediente",2021,"Tonalá","Jalisco","Jauja",29,"Casada",10,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"6/20/2021",9893
+444,"Zapotlanejo","Con expediente",2021,"Zapotlanejo","Jalisco","El Aguacate",18,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"6/22/2021",9897
+445,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,22,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"4/4/2021","092-86"
+446,"Ocotlán","Con expediente",2021,"Tototlán","Jalisco",,43,"Casada",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"4/6/2021","002-29"
+447,"Ocotlán","Con expediente",2021,"Atotonilco El Alto","Jalisco",,41,"Unión libre",15,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,15,"4/6/2021","11-966"
+448,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,25,"Soltera",16,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"4/9/2021","11-973"
+449,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,45,"Casada",6,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"4/17/2021","12-003"
+450,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,34,"Casada",16,"Aborto Inevitable","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"4/16/2021","11-990"
+451,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,17,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"4/18/2021","12-006"
+452,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,26,"Unión libre",8,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"4/25/2021","12-026"
+453,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,18,"Unión libre",16,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"4/25/2021","12-024"
+454,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,18,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"5/15/2021","10-670"
+455,"Ocotlán","Con expediente",2021,"Vista Hermosa","Michoacán",,15,"Unión libre",9,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"5/24/2021","12-120"
+456,"Ocotlán","Con expediente",2021,"Tototlán","Jalisco",,22,"Unión libre",16,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,16,"5/2/2021","12-042"
+457,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,21,"Unión libre",5,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,5,"5/6/2021","12-052"
+458,"Ocotlán","Con expediente",2021,"Jamay","Jalisco",,28,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"5/10/2021","12-068"
+459,"Ocotlán","Con expediente",2021,"Jamay","Jalisco",,23,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"5/10/2021","12-067"
+460,"Ocotlán","Con expediente",2021,"Tototlán","Jalisco",,17,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"5/30/2021","12-144"
+461,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,27,"Casada",9,"Aborto Inevitable","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"5/22/2021","12-116"
+462,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,20,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"5/30/2021","12-145"
+463,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,18,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"5/19/2021","086-90"
+464,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,17,"Soltera",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"5/10/2021","12-069"
+465,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,29,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"5/18/2021","12-095"
+466,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,34,"Casada",20,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,20,"5/26/2021","12-126"
+467,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,18,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,8,"3/3/2021","12-024"
+468,"Ocotlán","Con expediente",2021,"Jamay","Jalisco",,24,"Unión libre",21,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,21,"5/22/2021","12-073"
+469,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,23,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"5/19/2021","12-099"
+470,"Ocotlán","Con expediente",2021,"Jamay","Jalisco",,33,"Casada",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"5/9/2021","12-066"
+471,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,25,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"5/28/2021","12-129"
+472,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,40,"Unión libre",10,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10,"6/4/2021","15-151"
+473,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,25,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"6/20/2021","12-220"
+474,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,24,"Unión libre",20,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,20,"6/20/2021","12-221"
+475,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,18,"Unión libre",12,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"6/24/2021","12-229"
+476,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,19,"Casada",6,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"6/7/2021","12-174"
+477,"Ocotlán","Con expediente",2021,"Jamay","Jalisco",,18,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,7,"6/12/2021","12-196"
+478,"Ocotlán","Con expediente",2021,"Ocotlán","Jalisco",,42,"Casada",12,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12,"6/13/2021","12-198"
+479,"Ocotlán","Con expediente",2021,"Poncitlán","Jalisco",,26,"Soltera",11,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11,"6/29/2021","12-238"
+480,"Tamazula de Gordiano","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,37,"Soltera",9.6,"Huevo Muerto Retenido","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9.6,"23-01-2021",49650
+481,"Tamazula de Gordiano","Con expediente",2021,"El Recreo","Jalisco","El Recreo",41,"Casada",12.1,"Aborto Incompleto, Paridad Satisfecha","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,12.1,"03-02-2021",10323
+482,"Tamazula de Gordiano","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,22,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,9,"03-02-2021",49654
+483,"Tamazula de Gordiano","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,33,"Unión libre",10.4,"Embarazo Anembriónico, Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10.4,"24-03-2021",39999
+484,"Tamazula de Gordiano","Con expediente",2021,"La Manzanilla De La Paz","Jalisco",,31,"Casada","5.5.","Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,"5.5.","20-03-2021",25439
+485,"Tamazula de Gordiano","Con expediente",2021,"Tamazula de Gordiano","Jalisco","Soyatlán de Afuera",35,"Unión libre",10.1,"Aborto en Evolución","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10.1,"21-04-2021",49650
+486,"Tamazula de Gordiano","Con expediente",2021,"Apatzingán","Michoacán",,21,"Soltera",10.3,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,10.3,"25-04-2021",40112
+487,"Tamazula de Gordiano","Con expediente",2021,"Tamazula de Gordiano","Jalisco",,22,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","2. Negativo",,6,"16-06-2021",34102
+488,"Autlán","Con expediente",2021,"Villa Purificación","Jalisco",,15,"Casada",8.5,"Embarazo Anembriónico","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,8.5,"9/10/2021",121287
+489,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,19,"Soltera",8.7,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,8.7,"9/8/2021",121284
+490,"Autlán","Con expediente",2021,"Villa Purificación","Jalisco",,39,"Casada",16,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,16,"9/3/2021",66084
+491,"Autlán","Con expediente",2021,"Tuxcacuesco","Jalisco",,29,"Unión libre",6.4,"Embarazo Ectópico Roto","5. Riesgo de muerte","2. Misoprostol","3. No se aplicó",,6.4,"9/1/2021",99840
+492,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,23,"Unión libre",11,"Aborto Incompleto (huevo Muerto Retenido)","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,11,"9/2/2021",100709
+493,"Autlán","Con expediente",2021,"Casimiro Castillo","Jalisco",,17,"Unión libre",8,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,8,"8/31/2021",39491
+494,"Autlán","Con expediente",2021,"Autlán de Navarro","Jalisco",,30,"Unión libre",6,"Aborto en Evolución","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,6,"8/31/2021",79926
+495,"El Grullo","Con expediente",2021,"El Grullo","Jalisco",,15,"Soltera",10.3,"Aborto en Evolución","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,10.3,"7/8/2021",2119600
+496,"El Grullo","Con expediente",2021,"El Grullo","Jalisco",,36,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,7,"8/29/2021","00-17-12-676"
+497,"El Grullo","Con expediente",2021,"El Grullo","Jalisco",,26,"Unión libre",10,"Amenaza De Aborto (anhembriónico)","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,10,"8/1/2021","00-21-19-724"
+498,"El Grullo","Con expediente",2021,"El Grullo","Jalisco",,15,"Soltera",6,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,6,"8/26/2021","00-21-19-800"
+499,"El Grullo","Sin expediente",2021,"El Grullo","Jalisco",,23,"Unión libre",8.3,"Aborto en Evolución","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,8.3,"9/23/2021","SIN EXP"
+500,"La Huerta","Con expediente",2021,"La Huerta","Jalisco",,34,"Casada",17.1,"Aborto Incompleto","4. Riesgo a la salud","4. Expectante","3. No se aplicó",,17.1,"9/22/2021",4674
+501,"Tepatitlán de Morelos","Con expediente",2021,"Jalostotitlán","Jalisco",,25,"No referido",17,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","2. Negativo",,17,"7/20/2021","F.URG. 2199"
+502,"Tepatitlán de Morelos","Con expediente",2021,"Valle de Guadalupe","Jalisco",,22,"Soltera",7.3,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo",,"7.3 SDG","9/14/2021","F. URG. 2902 / 3000"
+503,"Yahualica de González Gallo","Con expediente",2021,"Mexticacán","Jalisco",,22,"Casada",10,"Aborto en Evolución","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,10,"9/6/2021","06-24-10"
+504,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,23,"Unión libre",7,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"9/10/2021","04-97-98"
+505,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,26,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"9/20/2021","06-94-57"
+506,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,35,"Casada",7,"Aborto Diferido","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"9/21/2021","06-19-83"
+507,"Yahualica de González Gallo","Con expediente",2021,"Nochistlán","Zacatecas",,33,"Unión libre",20,"Aborto Inevitable","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,20,"29/072021","06-92-04"
+508,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,25,"Soltera",10,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,10,"7/22/2021","04-49-82"
+509,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,21,"Casada",10,"Embarazo Anembriónico","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,10,"7/23/2021","06-91-59"
+510,"Yahualica de González Gallo","Con expediente",2021,"Nochistlán","Zacatecas",,38,"Unión libre",9,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,9,"7/1/2021","01-48-17"
+511,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,29,"Casada",15,"Aborto Inevitable","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,15,"7/20/2021","05-55-71"
+512,"Yahualica de González Gallo","Con expediente",2021,"Ixtlahuacán del Río","Jalisco",,35,"Soltera",6,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,6,"7/6/2021","jun-76"
+513,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,25,"Soltera",13,"Aborto en Evolución","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,13,"7/7/2021","05-01-81"
+514,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,29,"Soltera",7,"Aborto Incompleto","4. Riesgo a la salud","2. Misoprostol","3. No se aplicó",,7,"5/15/2021","04-96-39"
+515,"Yahualica de González Gallo","Con expediente",2021,"Ixtlahuacán del Río","Jalisco",,29,"Casada",8,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,8,"5/13/2021","06-87-95"
+516,"Yahualica de González Gallo","Con expediente",2021,"Apulco","Zacatecas",,29,"Unión libre",11,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,11,"5/3/2021","06-87-51"
+517,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,15,"Unión libre",5,"Huevo Muerto Retenido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,5,"6/27/2021","06-90-21"
+518,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,32,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"6/28/2021","06-13-11"
+519,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,24,"Casada",8,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,8,"6/21/2021","04-42-98"
+520,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,29,"Casada",8,"Aborto Diferido","4. Riesgo a la salud","3. AMEU",,,8,"6/22/2021","06-89-90"
+521,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,34,"Casada",14,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,14,"6/21/2021","04-27-47"
+522,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,21,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"6/15/2021","05-60-06"
+523,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,16,"Unión libre",15,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,15,"31/052021","06-75-55"
+524,"Yahualica de González Gallo","Con expediente",2021,"Nochistlán","Zacatecas",,21,"Soltera",8,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,8,"6/6/2021","06-88-95"
+525,"Yahualica de González Gallo","Con expediente",2021,"Nochistlán","Zacatecas",,44,"Unión libre",10,"Embarazo Anembriónico","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,10,"4/21/2021","06-86-91"
+526,"Yahualica de González Gallo","Con expediente",2021,"Mexticacán","Jalisco",,32,"Casada",15,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,15,"6/6/2021","05-79-04"
+527,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,30,"Casada",8,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,8,"4/28/2021","05-84-36"
+528,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,39,"Casada",14,"Aborto Gemelar Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,14,"4/15/2021","03-19-61"
+529,"Yahualica de González Gallo","Con expediente",2021,"Ixtlahuacán del Río","Jalisco",,19,"Casada",7,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"4/16/2021","06-86-74"
+530,"Yahualica de González Gallo","Con expediente",2021,"Yahualica de González Gallo","Jalisco",,33,"Casada",8,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,8,"4/1/2021","04-02-08"
+531,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco","Teponahuasco",35,"Casada",16,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,16,"4/1/2021","01-84-82"
+532,"Yahualica de González Gallo","Con expediente",2021,"Nochistlán","Zacatecas",,39,"Casada",8,"Huevo Muerto Retenido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,8,"4/1/2021","06-86-01"
+533,"Yahualica de González Gallo","Con expediente",2021,"Ixtlahuacán del Río","Jalisco",,48,"Casada",12,"Aborto Incompleto","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,12,"4/4/2021","05-36-36"
+534,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,33,"Unión libre",7,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"4/8/2021","06-82-10"
+535,"Yahualica de González Gallo","Con expediente",2021,"Mexticacán","Jalisco",,34,"Soltera",9,"Aborto Diferido","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,9,"4/11/2021","05-13-10"
+536,"Yahualica de González Gallo","Con expediente",2021,"Cuquío","Jalisco",,23,"Unión libre",7,"Aborto en Evolución","4. Riesgo a la salud","3. AMEU","3. No se aplicó",,7,"9/22/2021","06-94-66"
+537,"Zapopan","Sin expediente",2016,"Guadalajara","Jalisco",,18,"Soltera",10.2,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,10.2,"1/27/2016",
+538,"Zapopan","Sin expediente",2016,"Tlajomulco de Zúñiga","Jalisco",,16,"Soltera",11.2,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,11.2,"2/2/2016",
+539,"Zapopan","Sin expediente",2016,"Ixtlahuacán del Río","Jalisco",,13,"Soltera",3,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,3,"10/26/2016",
+540,"Zapopan","Sin expediente",2016,"Zapopan","Jalisco",,15,"Soltera",12,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,12,"7/7/2016",
+541,"Zapopan","Sin expediente",2017,"Guadalajara","Jalisco",,19,"Soltera",5.6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,5.6,"1/13/2017",
+542,"Zapopan","Sin expediente",2017,"Mazamitla","Jalisco",,40,"Casada",12.6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,12.6,"3/16/2017",
+543,"Zapopan","Sin expediente",2017,"Tlajomulco de Zúñiga","Jalisco",,19,"Soltera",12.1,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,12.1,"4/17/2017",
+544,"Zapopan","Sin expediente",2017,"Zapopan","Jalisco",,27,"Soltera",7,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,7,"5/2/2017",
+545,"Zapopan","Sin expediente",2017,"Zapopan","Jalisco",,14,"Soltera",7.7,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,7.7,"5/12/2017",
+546,"Zapopan","Sin expediente",2017,"Guadalajara","Jalisco",,17,"Soltera",5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,">5","7/5/2017",
+547,"Guadalajara","Con expediente",2017,"Tlaquepaque","Jalisco",,21,"Soltera",6.4,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo","LUI",6.4,"7/7/2017","668/97"
+548,"Guadalajara","Con expediente",2017,"Tlajomulco de Zúñiga","Jalisco",,20,"Soltera",9.3,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo","LUI",9.3,"7/17/2017","669/87"
+549,"Zapopan","Sin expediente",2017,"Ayotitlán","Jalisco",,16,"Soltera",14.3,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,14.3,"9/22/2017",
+550,"Zapopan","Sin expediente",2017,"Guadalajara","Jalisco",,29,"Casada",7.2,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,7.2,"9/25/2017",
+551,"Guadalajara","Con expediente",2017,"La Barca","Jalisco",,28,"Casada",6.5,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo","LUI",6.5,"10/30/2017","687/92"
+552,"Zapopan","Sin expediente",2017,"Tonalá","Jalisco",,14,"Soltera",14,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo","LUI",14,"11/7/2017",
+553,"Guadalajara","Con expediente",2018,"Tlajomulco de Zúñiga","Jalisco",,16,"Soltera",13,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo",,13,"3/17/2018","704-41"
+554,"Zapopan","Sin expediente",2018,"Guadalajara","Jalisco",,35,"Separada",7.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,7.5,"5/7/2018",
+555,"Guadalajara","Con expediente",2018,"Tepatitlán de Morelos","Jalisco",,15,"Soltera",7,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo",,7,"5/12/2018","712/38"
+556,"Zapopan","Sin expediente",2018,"Guadalajara","Jalisco",,38,"Viuda",6.1,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,6.1,"8/22/2018",
+557,"Guadalajara","Con expediente",2018,"Guadalajara","Jalisco",,21,"Soltera",12,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo",,12,"9/6/2018","725/39"
+558,"Zapopan","Sin expediente",2018,"Tonalá","Jalisco",,17,"Soltera",15.4,"Embarazo por Violación","1. Violencia sexual (IVE)","1. Régimen combinado  (Mifepristona y Misoprostol)","1. Positivo",,15.4,"9/22/2018",
+559,"Zapopan","Sin expediente",2018,"Tlaquepaque","Jalisco",,21,"Soltera",10.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,10.5,"10/16/2018",
+560,"Zapopan","Sin expediente",2018,"Zapopan","Jalisco",,22,"Casada",6.6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,6.6,"11/26/2018",
+561,"Zapopan","Sin expediente",2018,"Ameca","Jalisco",,25,"No referido",9.4,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,9.4,"12/21/2018",
+562,"Zapopan","Sin expediente",2019,"Zapopan","Jalisco",,24,"Soltera",12,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,12,"2/14/2019",
+563,"Zapopan","Sin expediente",2019,"Guadalajara","Jalisco",,20,"No referido",6.6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,6.6,"2/18/2019",
+564,"Guadalajara","Sin expediente",2019,"Zapopan","Jalisco",,21,"No referido",15,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,15,"2/19/2019",
+565,"Guadalajara","Sin expediente",2019,"Ixtlahuacán de los Membrillos","Jalisco",,15,"No referido",16,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,16,"3/5/2019",
+566,"Zapopan","Sin expediente",2019,"Huejuquilla el Alto","Jalisco",,23,"Separada",10.3,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,10.3,"4/1/2019",
+567,"Zapopan","Sin expediente",2019,"Tlajomulco de Zúñiga","Jalisco",,13,"Soltera",9.4,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,9.4,"4/2/2019",
+568,"Zapopan","Sin expediente",2019,"Aguascalientes","Aguascalientes",,25,"No referido",9.4,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,9.4,"5/6/2019",
+569,"Zapopan","Sin expediente",2019,"Tlajomulco de Zúñiga","Jalisco",,23,"No referido",6.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,6.5,"6/10/2019",
+570,"Guadalajara","Sin expediente",2019,"Tlaquepaque","Jalisco",,32,"No referido",15.2,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,15.2,"7/1/2019",
+571,"Zapopan","Sin expediente",2019,"Zapopan","Jalisco",,19,"No referido",8.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,8.5,"9/21/2019",
+572,"Guadalajara","Sin expediente","Registro no determinado","Guadalajara","Jalisco",,,"No referido","Incierto","Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,,,
+573,"Zapopan","Sin expediente",2020,"Tlaquepaque","Jalisco",,16,"Soltera",6,"Embarazo por Violación","1. Violencia sexual (IVE)","3. AMEU","1. Positivo",,6,"1/13/2020",
+574,"Zapopan","Sin expediente",2020,"Tlajomulco de Zúñiga","Jalisco",,16,"Soltera",13.2,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo","LUI",13.2,"4/25/2020",
+575,"Zapopan","Sin expediente",2020,"Guadalajara","Jalisco",,23,"Soltera",16,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,16,"4/30/2020",
+576,"Guadalajara","Sin expediente",2020,"Tlajomulco de Zúñiga","Jalisco",,23,"No referido",16,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,16,"4/30/2020",
+577,"Puerto Vallarta","Sin expediente",2020,"Puerto Vallarta","Jalisco",,40,"No referido",5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,5,"5/18/2020",
+578,"Zapopan","Sin expediente",2020,"Zapopan","Jalisco",,21,"Soltera",5,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo",,5,"6/18/2020",
+579,"Tepatitlán de Morelos","Sin expediente",2020,"Tepatitlán de Morelos","Jalisco",,28,"No referido",11.4,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,11.4,"6/6/2020",
+580,"Guadalajara","Sin expediente",2020,"Autlán de Navarro","Jalisco",,15,"No referido",15,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,15,"7/6/2020",
+581,"Zapopan","Sin expediente",2020,"Zapopan","Jalisco",,23,"Soltera",8.2,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo",,8.2,"7/10/2020",
+582,"Zapopan","Sin expediente",2020,"Guadalajara","Jalisco",,20,"Soltera",7.3,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo","LUI",7.3,"9/9/2020",
+583,"Zapopan","Sin expediente",2020,"Guadalajara","Jalisco",,13,"Soltera",8.1,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo",,8.1,"3/30/2020",
+584,"Zapopan","Sin expediente",2020,"Guadalajara","Jalisco",,21,"Soltera",7,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo",,7,"10/8/2020",
+585,"Zapopan","Sin expediente",2020,"Ayotlán","Jalisco",,36,"Soltera",8,"Embarazo por Violación","1. Violencia sexual (IVE)","2. Misoprostol","1. Positivo","LUI",8,"10/15/2020",
+586,"Zapopan","Sin expediente",2021,"Zapopan","Jalisco",,23,"Soltera",5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,5,"1/25/2021",
+587,"Zapopan","Sin expediente",2021,"Tonalá","Jalisco",,15,"Soltera",6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,6,"2/25/2021",
+588,"Zapopan","Sin expediente",2021,"Guadalajara","Jalisco",,18,"Soltera",11.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,11.5,"3/18/2021",
+589,"Zapopan","Sin expediente",2021,"Tlajomulco de Zúñiga","Jalisco",,36,"Soltera",7.6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,7.6,"3/23/2021",
+590,"Zapopan","Sin expediente",2021,"Zapopan","Jalisco",,11,"Soltera","Incierto","Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,,"4/11/2021",
+591,"Zapotlán El Grande","Sin expediente",2021,"Sin Registro","Sin Registro",,19,"No referido",11,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,11,"4/27/2021",
+592,"Zapopan","Sin expediente",2021,"Sin Registro","Sin Registro",,16,"No referido",9.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,9.5,"ago-21",
+593,"Guadalajara","Sin expediente",2021,"Sin Registro","Sin Registro",,15,"No referido",15.5,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,15.5,"ago-21",
+594,"Zapopan","Sin expediente",2021,"Sin Registro","Sin Registro",,20,"No referido",10.2,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,10.2,"oct-21",
+595,"Guadalajara","Sin expediente",2021,"Sin Registro","Sin Registro",,17,"No referido",17.6,"Embarazo por Violación","1. Violencia sexual (IVE)",,"1. Positivo",,17.6,"oct-21",
