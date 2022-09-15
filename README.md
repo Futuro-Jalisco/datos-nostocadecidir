@@ -43,12 +43,12 @@ Nacimientos registrados en madres menores a 20 años en Jalisco en 2019 y 2021 (
 	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/INEGI-SSJ-IIEG_Embarazo-inf-adolescente_2019-2021.csv)
 	- [Visualizaciones](https://public.tableau.com/views/IIEG_Embarazo-inf-adolescente-menores20_2019-2021_01/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-	- `SSJ_No-Objetores-2020`:
+ - `SSJ_No-Objetores-2020`:
 Personal médico de Servicios de Salud Jalisco registrado como no objetor en 2020.
 	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/SSJ_No-Objetores-2020.csv)
 	- [Visualizaciones](https://public.tableau.com/views/Igualdad_NoObjetoresConciencia2020/IgualdadSalud_NoObjetoresConciencia2020?:language=en-US&:display_count=n&:origin=viz_share_link) 
 
-	 - `SSJ_No-Objetores-y-Objetores-2021`:
+ - `SSJ_No-Objetores-y-Objetores-2021`:
 Personal médico de Servicios de Salud Jalisco registrado como objetor y no objetor en 2021.
 	- [Datos abiertos](https://github.com/Futuro-Jalisco/datos-nostocadecidir/blob/main/datos/SSJ_No-Objetores-y-Objetores-2021.csv)
 	- [Visualizaciones](https://public.tableau.com/views/Igualdad_ObjetoresConciencia2021_01/Igualdad_ObjetoresConciencia2021?:language=en-US&:display_count=n&:origin=viz_share_link) 
