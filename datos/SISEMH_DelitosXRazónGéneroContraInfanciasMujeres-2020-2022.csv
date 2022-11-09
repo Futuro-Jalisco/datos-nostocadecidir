@@ -1,0 +1,184 @@
+AÑO,MUNICIPIO,TIPO DELITO,# CASOS
+2020,Guadalajara,Trata de personas,3
+2020,Puerto Vallarta,Trata de personas,2
+2020,Tlaquepaque,Trata de personas,2
+2020,Zapopan,Trata de personas,3
+2020,Interior del estado,Trata de personas,13
+2021,Guadalajara,Trata de personas,5
+2021,Puerto Vallarta,Trata de personas,1
+2021,Zapopan,Trata de personas,2
+2021,Interior del estado,Trata de personas,11
+2022,Guadalajara,Trata de personas,1
+2022,Interior del estado,Trata de personas,1
+2020,Guadalajara,Abuso sexual infantil,271
+2020,Lagos de Moreno,Abuso sexual infantil,21
+2020,Puerto Vallarta,Abuso sexual infantil,138
+2020,Tlaquepaque,Abuso sexual infantil,155
+2020,Tlajomulco,Abuso sexual infantil,181
+2020,Tonalá,Abuso sexual infantil,131
+2020,Zapopan,Abuso sexual infantil,276
+2020,Interior del estado,Abuso sexual infantil,1928
+2021,Guadalajara,Abuso sexual infantil,322
+2021,Lagos de Moreno,Abuso sexual infantil,38
+2021,Puerto Vallarta,Abuso sexual infantil,143
+2021,Tlaquepaque,Abuso sexual infantil,166
+2021,Tlajomulco,Abuso sexual infantil,229
+2021,Tonalá,Abuso sexual infantil,137
+2021,Zapopan,Abuso sexual infantil,318
+2021,Interior del estado,Abuso sexual infantil,1976
+2022,Guadalajara,Abuso sexual infantil,91
+2022,Lagos de Moreno,Abuso sexual infantil,9
+2022,Puerto Vallarta,Abuso sexual infantil,57
+2022,Tlaquepaque,Abuso sexual infantil,56
+2022,Tlajomulco,Abuso sexual infantil,88
+2022,Tonalá,Abuso sexual infantil,58
+2022,Zapopan,Abuso sexual infantil,135
+2022,Interior del estado,Abuso sexual infantil,806
+2020,Guadalajara,Violación a la intimidad sexual,15
+2020,Tlaquepaque,Violación a la intimidad sexual,2
+2020,Tlajomulco,Violación a la intimidad sexual,7
+2020,Tonalá,Violación a la intimidad sexual,3
+2020,Zapopan,Violación a la intimidad sexual,14
+2020,Interior del estado,Violación a la intimidad sexual,67
+2021,Guadalajara,Violación a la intimidad sexual,105
+2021,Puerto Vallarta,Violación a la intimidad sexual,16
+2021,Tlaquepaque,Violación a la intimidad sexual,44
+2021,Tlajomulco,Violación a la intimidad sexual,25
+2021,Tonalá,Violación a la intimidad sexual,33
+2021,Zapopan,Violación a la intimidad sexual,87
+2021,Interior del estado,Violación a la intimidad sexual,343
+2022,Guadalajara,Violación a la intimidad sexual,47
+2022,Puerto Vallarta,Violación a la intimidad sexual,12
+2022,Tlaquepaque,Violación a la intimidad sexual,14
+2022,Tlajomulco,Violación a la intimidad sexual,5
+2022,Tonalá,Violación a la intimidad sexual,6
+2022,Zapopan,Violación a la intimidad sexual,25
+2022,Interior del estado,Violación a la intimidad sexual,130
+2020,Guadalajara,Violación (simple + equiparada),102
+2020,Lagos de Moreno,Violación (simple + equiparada),2
+2020,Puerto Vallarta,Violación (simple + equiparada),12
+2020,Tlaquepaque,Violación (simple + equiparada),14
+2020,Tlajomulco,Violación (simple + equiparada),5
+2020,Tonalá,Violación (simple + equiparada),26
+2020,Zapopan,Violación (simple + equiparada),75
+2020,Interior del estado,Violación (simple + equiparada),355
+2021,Guadalajara,Violación (simple + equiparada),133
+2021,Lagos de Moreno,Violación (simple + equiparada),6
+2021,Puerto Vallarta,Violación (simple + equiparada),29
+2021,Tlaquepaque,Violación (simple + equiparada),43
+2021,Tlajomulco,Violación (simple + equiparada),43
+2021,Tonalá,Violación (simple + equiparada),27
+2021,Zapopan,Violación (simple + equiparada),109
+2021,Interior del estado,Violación (simple + equiparada),471
+2022,Guadalajara,Violación (simple + equiparada),38
+2022,Lagos de Moreno,Violación (simple + equiparada),3
+2022,Puerto Vallarta,Violación (simple + equiparada),8
+2022,Tlaquepaque,Violación (simple + equiparada),9
+2022,Tlajomulco,Violación (simple + equiparada),18
+2022,Tonalá,Violación (simple + equiparada),14
+2022,Zapopan,Violación (simple + equiparada),36
+2022,Interior del estado,Violación (simple + equiparada),145
+2020,Guadalajara,Delitos contra la integridad,601
+2020,Lagos de Moreno,Delitos contra la integridad,45
+2020,Puerto Vallarta,Delitos contra la integridad,10
+2020,Tlaquepaque,Delitos contra la integridad,199
+2020,Tlajomulco,Delitos contra la integridad,211
+2020,Tonalá,Delitos contra la integridad,183
+2020,Zapopan,Delitos contra la integridad,435
+2020,Interior del estado,Delitos contra la integridad,1818
+2021,Guadalajara,Delitos contra la integridad,573
+2021,Lagos de Moreno,Delitos contra la integridad,7
+2021,Puerto Vallarta,Delitos contra la integridad,14
+2021,Tlaquepaque,Delitos contra la integridad,186
+2021,Tlajomulco,Delitos contra la integridad,169
+2021,Tonalá,Delitos contra la integridad,171
+2021,Zapopan,Delitos contra la integridad,445
+2021,Interior del estado,Delitos contra la integridad,1645
+2022,Guadalajara,Delitos contra la integridad,228
+2022,Puerto Vallarta,Delitos contra la integridad,8
+2022,Tlaquepaque,Delitos contra la integridad,51
+2022,Tlajomulco,Delitos contra la integridad,64
+2022,Tonalá,Delitos contra la integridad,55
+2022,Zapopan,Delitos contra la integridad,138
+2022,Interior del estado,Delitos contra la integridad,593
+2020,Tlajomulco,Desaparición,1
+2020,Interior del estado,Desaparición,2
+2021,Guadalajara,Desaparición,210
+2021,Lagos de Moreno,Desaparición,12
+2021,Puerto Vallarta,Desaparición,21
+2021,Tlaquepaque,Desaparición,84
+2021,Tlajomulco,Desaparición,121
+2021,Tonalá,Desaparición,58
+2021,Zapopan,Desaparición,160
+2021,Interior del estado,Desaparición,867
+2022,Guadalajara,Desaparición,59
+2022,Lagos de Moreno,Desaparición,2
+2022,Puerto Vallarta,Desaparición,7
+2022,Tlaquepaque,Desaparición,29
+2022,Tlajomulco,Desaparición,31
+2022,Tonalá,Desaparición,26
+2022,Zapopan,Desaparición,49
+2022,Interior del estado,Desaparición,257
+2020,Guadalajara,Violencia familiar,2546
+2020,Lagos de Moreno,Violencia familiar,169
+2020,Puerto Vallarta,Violencia familiar,707
+2020,Tlaquepaque,Violencia familiar,982
+2020,Tlajomulco,Violencia familiar,1069
+2020,Tonalá,Violencia familiar,920
+2020,Zapopan,Violencia familiar,2160
+2020,Interior del estado,Violencia familiar,12076
+2021,Guadalajara,Violencia familiar,2344
+2021,Lagos de Moreno,Violencia familiar,240
+2021,Puerto Vallarta,Violencia familiar,510
+2021,Tlaquepaque,Violencia familiar,1030
+2021,Tlajomulco,Violencia familiar,1291
+2021,Tonalá,Violencia familiar,1004
+2021,Zapopan,Violencia familiar,2064
+2021,Interior del estado,Violencia familiar,10784
+2022,Guadalajara,Violencia familiar,778
+2022,Lagos de Moreno,Violencia familiar,112
+2022,Puerto Vallarta,Violencia familiar,135
+2022,Tlaquepaque,Violencia familiar,219
+2022,Tlajomulco,Violencia familiar,433
+2022,Tonalá,Violencia familiar,289
+2022,Zapopan,Violencia familiar,623
+2022,Interior del estado,Violencia familiar,3636
+2020,Guadalajara,Lesiones,230
+2020,Lagos de Moreno,Lesiones,107
+2020,Puerto Vallarta,Lesiones,27
+2020,Tlaquepaque,Lesiones,97
+2020,Tlajomulco,Lesiones,90
+2020,Tonalá,Lesiones,77
+2020,Zapopan,Lesiones,169
+2020,Interior del estado,Lesiones,1844
+2021,Guadalajara,Lesiones,261
+2021,Lagos de Moreno,Lesiones,22
+2021,Puerto Vallarta,Lesiones,115
+2021,Tlaquepaque,Lesiones,93
+2021,Tlajomulco,Lesiones,85
+2021,Tonalá,Lesiones,69
+2021,Zapopan,Lesiones,214
+2021,Interior del estado,Lesiones,1392
+2022,Guadalajara,Lesiones,80
+2022,Puerto Vallarta,Lesiones,37
+2022,Tlaquepaque,Lesiones,22
+2022,Tlajomulco,Lesiones,36
+2022,Tonalá,Lesiones,28
+2022,Zapopan,Lesiones,55
+2022,Interior del estado,Lesiones,424
+2020,Guadalajara,Suicidio feminicida,2
+2020,Puerto Vallarta,Suicidio feminicida,1
+2020,Tlaquepaque,Suicidio feminicida,1
+2020,Tonalá,Suicidio feminicida,2
+2020,Interior del estado,Suicidio feminicida,16
+2021,Guadalajara,Suicidio feminicida,6
+2021,Tlaquepaque,Suicidio feminicida,1
+2021,Interior del estado,Suicidio feminicida,7
+2022,Guadalajara,Suicidio feminicida,1
+2022,Puerto Vallarta,Suicidio feminicida,0
+2022,Tlaquepaque,Suicidio feminicida,0
+2022,Tonalá,Suicidio feminicida,0
+2022,Interior del estado,Suicidio feminicida,0
+2022,Guadalajara,Suicidio feminicida,0
+2022,Tlaquepaque,Suicidio feminicida,0
+2022,Interior del estado,Suicidio feminicida,1
